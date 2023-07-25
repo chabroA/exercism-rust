@@ -1,0 +1,7 @@
+[dependencies]
+itertools = "0.11.0"
+
+[package]
+edition = "2021"
+name = "anagram"
+version = "0.0.0"
